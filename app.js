@@ -102,7 +102,7 @@ const certificatesData = [
     category: 'Course',
     issuer: 'GeeksforGeeks',
     year: '2026',
-    url: 'https://github.com/mXrahul01/Rahul-Talvar-Portfolio-Website/blob/main/public/assets/Certificates/Data%20Science%20and%20Machine%20Learning.jpg'
+    url: 'https://github.com/mXrahul01/Rahul-Talvar-Portfolio-Website/blob/main/public/assets/Certificates/Data%20Science%20and%20Machine%20Learning1.jpg'
   }
 ];
 
