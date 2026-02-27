@@ -95,6 +95,14 @@ const certificatesData = [
     issuer: 'Coursera',
     year: '2024',
     url: 'https://raw.githubusercontent.com/mXrahul01/Rahul-Talvar-Portfolio-Website/main/public/assets/Certificates/Supervised%20Machine%20Learning%20Regression%20and%20Classification%20CourseEra.png'
+  },
+  {
+    id: 13,
+    title: 'Complete Machine Learning & Data Science - Skill Up',
+    category: 'Course',
+    issuer: 'GeeksforGeeks',
+    year: '2026',
+    url: 'https://github.com/mXrahul01/Rahul-Talvar-Portfolio-Website/blob/main/public/assets/Certificates/Data%20Science%20and%20Machine%20Learning%20_page-0001.jpg'
   }
 ];
 
